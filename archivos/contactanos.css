@@ -1,0 +1,83 @@
+body{
+	background: url("http://falconmasters.com/demos/particulas/bg.jpg") no-repeat #000;
+  background-size: cover;
+}
+/**/
+
+.contenedor{
+	width: 1348px;
+	height: 100%;
+	margin: auto;
+	background-color: white;
+	display: flex;
+
+}
+/**/
+.article{
+	width: 90%;
+	height: 15cm;
+	background: white;
+	margin: auto;
+	margin-top: 2cm;
+	display: flex;
+
+}
+/*------------------*/
+.sub-article-0{
+	width: 30%;
+	height: 10cm;
+	background-color: orange;
+	margin: auto;
+	display: flex;
+	color: white;
+}
+.sub-article{
+	width: 95%;
+	height: 10cm;
+	background-color: #F5F5F5;
+	margin: auto;
+	display: flex;
+}
+.form{
+	width: 40%;
+	height: 8cm;
+	/**background-color: orange;*/
+	margin: auto;
+}
+.ti{
+	width: 80%;
+	height: 1cm;
+	background-color: red;
+}
+input{
+	width: 100%;
+	height: 30px;
+	line-height: 20px;
+	padding-left: 10px;
+}
+textarea{
+	width: 100%;
+	padding-left: 10px;
+}
+.form-2{
+	width: 40%;
+	height: 8cm;
+	/*background-color: orange;*/
+	margin: auto;
+}
+button{
+	margin: auto;
+	background-color: orange;
+	width: 100px;
+	height: 50px;
+	color: white;
+
+}
+label{
+	line-height: 30px;
+}
+p{
+	margin: auto;
+	font-size: 40px;
+	padding-left: 60px;
+}

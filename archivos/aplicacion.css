@@ -1,0 +1,69 @@
+/**/
+body{
+	background: url("http://falconmasters.com/demos/particulas/bg.jpg") no-repeat #000;
+  background-size: cover;
+}
+/**/
+
+.contenedor{
+	width: 1348px;
+	height: 8cm;
+	margin: auto;
+	background-color: white;
+	display: flex;
+
+}
+.titulo{
+	width: 1348px;
+	height: 100px;
+}
+.article{
+	width: 40%;
+	height: 6cm;
+	background: ;
+	margin: auto;
+	margin-top: 2cm;
+}
+.separador{
+	background: pink;
+	height: 2cm;
+	width: 1348px;
+	margin: auto;
+
+}
+
+/*seunda contenedor*/
+.contenedor-2{
+	width: 1348px;
+	height: 30cm;
+	margin: auto;
+	background-color: #F5F5F5;
+	display: flex;
+
+}
+.article-2{
+	width: 45%;
+	height: 25cm;
+	background: ;
+	margin: auto;
+	margin-top: 2cm;
+}
+/*tercer contenedor*/
+.contenedor-3{
+	width: 1348px;
+	height: 30cm;
+	margin: auto;
+	background-color: grey;
+	display: flex;
+
+}
+.article-3{
+	width: 45%;
+	height: 25cm;
+	background: yellow;
+	margin: auto;
+	margin-top: 2cm;
+}
+p{
+	text-indent: 1em;
+}

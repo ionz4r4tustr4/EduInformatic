@@ -1,0 +1,65 @@
+/**/
+body{
+	background: url("http://falconmasters.com/demos/particulas/bg.jpg") no-repeat #000;
+  background-size: cover;
+}
+/**/
+
+.contenedor{
+	width: 1348px;
+	height: 94cm;
+	margin: auto;
+	background-color: #F5F5F5;
+	display: flex;
+
+}
+/**/
+.article{
+	width: 80%;
+	height: 92cm;
+	background: white;
+	margin: auto;
+	margin-top: 2cm;
+}
+.sub-article{
+	width: 95%;
+	height: 21cm;
+	background-color: white;
+	margin: auto;
+}
+/**/
+.sub-article-2{
+	width: 95%;
+	height: 25cm;
+	background-color: #F5F5F5;
+	margin: auto;
+}
+/**/
+.sub-article-3{
+	width: 95%;
+	height: 23cm;
+	background-color: white;
+	margin: auto;
+}
+/**/
+.sub-article-4{
+	width: 95%;
+	height: 20cm;
+	background-color: #F5F5F5;
+	margin: auto;
+}
+
+img{
+	margin:10px auto;
+	 display:block;
+	 width: 30%;
+}
+p{
+	text-indent: 1em;
+	padding: 10px;
+	text-align: justify;
+}
+h4{
+	padding: 10px;
+}
+

@@ -1,0 +1,201 @@
+
+/*inicio*/
+
+/*body Buscar usar flexbox*/
+.body{
+	
+  background: url("http://falconmasters.com/demos/particulas/bg.jpg") no-repeat #000;
+  background-size: cover;
+	
+}
+.sub-body{
+	margin: auto;
+	width: 1348px;
+	height: 100%;
+}
+
+/*menu*/
+
+/*body section*/
+.slide{
+	background: grey;
+	height: 15cm;
+	padding-top: 50px;
+}
+/**/
+.linea-1{
+	background-color: #72C05B;
+	height: 4px;
+	width: 100%;
+}
+.titulo-1{
+	background: #242A33;
+	color: white;
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 30px;
+	
+}
+h1{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-weight: lighter;
+	color: #F5F5F5;
+}
+/**/
+.texto-1{
+	background-color: white;
+	height: 9cm;
+	padding-top: 30px;
+	text-align: justify;
+	justify-content: space-around;
+	font-size: 18px;
+
+}
+.texto-1-1{
+	width: 35%;
+	display: inline-block;
+	margin-left: 10%;
+
+}
+
+
+.texto-1-2{
+	width: 35%;
+	display: inline-block;
+	margin-left: 10%;
+	
+}
+/**/
+.video{
+	background-color: #242A33;
+	height: 10cm;
+	color: #F5F5F5;
+
+
+}
+.v{
+	width: 40%;
+	display: inline-block;
+	margin: 30px 60px;
+	text-align: center;
+}
+h4{
+	color: #222222;
+}
+/**/
+.ventajas{
+	background-color: white;
+	height: 13cm;
+
+	
+}
+.sub-ventaja{
+	list-style-type: circle;
+	width: 60%;
+	display: inline-block;
+	margin-left: 6%;
+	padding-top: 0cm;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+.sub-ventaja-img{
+	width: 20%;
+	display: inline-block;
+	
+	margin-top: 10px;
+}
+/**/
+.desventajas{
+	background-color: #F5F5F5;
+	height: 9cm;
+}
+.sub-desventaja{
+	list-style-type: circle;
+	width: 60%;
+	display: inline-block;
+	margin-right: 6%;
+	padding-top: 1cm;
+	margin-top: -1cm;
+	padding-left:50px;
+}
+.sub-desventaja-img{
+	width: 15%;
+	display: inline-block;
+	margin-left: 11%;
+	margin-top: 10px;
+
+}
+/**/
+.titulo-2{
+	background-color: #222222;
+	color: white;
+}
+h2{
+	text-align: center;
+	padding: 20px;
+	font-weight: lighter;
+	color: #F5F5F5;
+
+}
+/**/
+.texto-competencias{
+	background-color: white;
+	height: 12cm;
+
+}
+.txt-comp{
+	background-color: #F5F5F5;
+	width: 20%;
+	height: 70%;
+	display: inline-block;
+	justify-content: space-around;
+	margin-left: 2%;
+	margin-top: 1%;
+	padding: 15px;
+	text-align: center;
+	color: #222222;
+}
+
+}
+/**/
+img{
+	margin-left: auto;
+  	margin-right: auto;
+  	display: block;
+  	 width: 50%;
+  	 height: 100%;
+}
+/**/
+
+.slider{
+	width: 100%;
+	margin: auto;
+	overflow: hidden;
+
+}
+.slider ul{
+	padding: 0;
+	display: flex;
+	width: 400%;
+	animation: cambio 20s infinite;
+	animation-direction: alternate;
+}
+.slider li{
+	list-style: none;
+	width: 100%
+}
+.slider img{
+	width: 100%;
+}
+@keyframes cambio{
+	0% {margin-left: 0;}
+	20% {margin-left: 0;}
+
+	25% {margin-left: -100;}
+	45% {margin-left: -100;}
+
+	50% {margin-left: -200;}
+	70% {margin-left: -200;}
+
+}

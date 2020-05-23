@@ -1,0 +1,202 @@
+/**/
+body{
+	background: url("http://falconmasters.com/demos/particulas/bg.jpg") no-repeat #000;
+  background-size: cover;
+}
+/**/
+
+.contenedor{
+	width: 1348px;
+	height: 180cm;
+	margin: auto;
+	background-color: white;
+	display: flex;
+
+}
+/**/
+.article{
+	width: 90%;
+	height: 92cm;
+	/**background: pink;**/
+	margin: auto;
+	margin-top: 2cm;
+}
+/*------------------*/
+.sub-article{
+	width: 95%;
+	height: 2cm;
+	background-color: white;
+	margin: auto;
+	display: flex;
+}
+.sub-art{
+	width: 40%;
+	height: 8cm;
+	/**background-color: orange;*/
+	margin: auto;
+}
+/*-----------------------------*/
+.sub-article-2{
+	width: 95%;
+	height: 10cm;
+	background-color:  white;
+	margin: auto;
+	display: flex;
+}
+/*-----------------------------------*/
+.sub-article-3{
+	width: 95%;
+	height: 10cm;
+	background-color: #F5F5F5;
+	margin: auto;
+	display: flex;
+}
+/*--------------------------------------*/
+.sub-article-4{
+	width: 95%;
+	height: 10cm;
+	background-color: white;
+	margin: auto;
+	display: flex;
+}
+/*----------------------------------------*/
+.sub-article-5{
+	width: 95%;
+	height: 2cm;
+	background-color: yellow;
+	margin: auto;
+	display: flex;
+}
+/*----------------------------------------*/
+.sub-article-6{
+	width: 95%;
+	height: 10cm;
+	background-color: #F5F5F5;
+	margin: auto;
+	display: flex;
+}
+/*----------------------------------------*/
+.sub-article-7{
+	width: 95%;
+	height: 10cm;
+	background-color: white;
+	margin: auto;
+	display: flex;
+}
+/*----------------------------------------*/
+.sub-article-8{
+	width: 95%;
+	height: 10cm;
+	background-color: #F5F5F5;
+	margin: auto;
+	display: flex;
+}
+/*----------------------------------------*/
+.sub-article-9{
+	width: 95%;
+	height: 10cm;
+	background-color: white;
+	margin: auto;
+	display: flex;
+}
+/*----------------------------------------*/
+.sub-article-10{
+	width: 95%;
+	height: 10cm;
+	background-color: #F5F5F5;
+	margin: auto;
+	display: flex;
+}
+/*----------------------------------------*/
+.sub-article-11{
+	width: 95%;
+	height: 10cm;
+	background-color: white;
+	margin: auto;
+	display: flex;
+}
+/*----------------------------------------*/
+.sub-article-12{
+	width: 95%;
+	height: 10cm;
+	background-color: #F5F5F5;
+	margin: auto;
+	display: flex;
+}
+/*----------------------------------------*/
+.sub-article-13{
+	width: 95%;
+	height: 10cm;
+	background-color: white;
+	margin: auto;
+	display: flex;
+}
+/*----------------------------------------*/
+.sub-article-14{
+	width: 95%;
+	height: 10cm;
+	background-color: #F5F5F5;
+	margin: auto;
+	display: flex;
+}
+/*----------------------------------------*/
+.sub-article-15{
+	width: 95%;
+	height: 10cm;
+	background-color: white;
+	margin: auto;
+	display: flex;
+}
+/*----------------------------------------*/
+.sub-article-16{
+	width: 95%;
+	height: 10cm;
+	background-color: #F5F5F5;
+	margin: auto;
+	display: flex;
+}
+/*----------------------------------------*/
+.sub-article-17{
+	width: 95%;
+	height: 10cm;
+	background-color: white;
+	margin: auto;
+	display: flex;
+}
+.sub-article-18{
+	width: 95%;
+	height: 10cm;
+	background-color: #F5F5F5;
+	margin: auto;
+	display: flex;
+}
+.sub-article-19{
+	width: 95%;
+	height: 10cm;
+	background-color: white;
+	margin: auto;
+	display: flex;
+}
+.mas{
+	background-color: orange;
+	color: white;
+	width: 70px;
+	padding: 10px 20px;
+}
+.mas:hover{
+	background-color: white;
+}
+hr{
+	width: 100%;
+	border: 1px;
+}
+img{
+	margin:10px auto;
+		    display:block;
+}
+p{
+	text-indent: 0;
+}
+h2{
+	margin: auto;
+}
